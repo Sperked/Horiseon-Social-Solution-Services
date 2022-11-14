@@ -39,10 +39,10 @@ THEN I find a concise, descriptive title
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
+<!-- I added in this photograph to show why I did not include a footer in my final rendition -->
+![horiseon-demo](https://user-images.githubusercontent.com/116986004/201579947-e3d9046f-4a8a-4aad-973b-a558afabfd3f.png)
 
 The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
-
-![My Image](images/horiseon-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
@@ -122,5 +122,5 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
+Hidden Comments are enabled. Please feel free to read them. Thank you.
 <!-- I Sergio Perkins modified the original read me to make it more simplistic and show my main objectives in this challenge and more pertinent info -->
